@@ -8,3 +8,6 @@ for i in 0..o.length-1 do
         print e[i]
     end
 end 
+
+
+puts o + e
